@@ -1,0 +1,7 @@
+C:\Users\migue\source\repos\Poli2\Poli2\obj\Debug\Poli2.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Poli2\Poli2\bin\Debug\Poli2.exe.config
+C:\Users\migue\source\repos\Poli2\Poli2\bin\Debug\Poli2.exe
+C:\Users\migue\source\repos\Poli2\Poli2\bin\Debug\Poli2.pdb
+C:\Users\migue\source\repos\Poli2\Poli2\obj\Debug\Poli2.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\Poli2\Poli2\obj\Debug\Poli2.exe
+C:\Users\migue\source\repos\Poli2\Poli2\obj\Debug\Poli2.pdb
