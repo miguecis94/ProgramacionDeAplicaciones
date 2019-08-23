@@ -1,0 +1,7 @@
+C:\Users\migue\source\repos\Inter3\Inter3\obj\Debug\Inter3.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\Inter3\Inter3\obj\Debug\Inter3.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Inter3\Inter3\bin\Debug\Inter3.exe.config
+C:\Users\migue\source\repos\Inter3\Inter3\bin\Debug\Inter3.exe
+C:\Users\migue\source\repos\Inter3\Inter3\bin\Debug\Inter3.pdb
+C:\Users\migue\source\repos\Inter3\Inter3\obj\Debug\Inter3.exe
+C:\Users\migue\source\repos\Inter3\Inter3\obj\Debug\Inter3.pdb
